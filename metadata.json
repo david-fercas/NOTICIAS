@@ -1,0 +1,5 @@
+{
+  "name": "Canvas de Noticias: Analista de Medios",
+  "description": "Una pizarra interactiva que organiza las noticias más relevantes de hoy en Mundo, España, León y más, verificadas mediante búsqueda en tiempo real.",
+  "requestFramePermissions": []
+}
